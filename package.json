@@ -1,0 +1,26 @@
+{
+  "name": "irsosav_v10",
+  "version": "1.0.0",
+  "description": "Sistema de viandas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Jorge Cozot",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "md5": "^2.1.0",
+    "mysql": "^2.10.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccozot/IRSOSAV_v1.0.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ccozot/IRSOSAV_v1.0/issues"
+  },
+  "homepage": "https://github.com/ccozot/IRSOSAV_v1.0#readme"
+}
